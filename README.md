@@ -49,5 +49,5 @@ Use R-script ``lexiconClustering.r``.
 
   * semtracks_words.pl
   * lexikonclustering.r
-  * lib-file for ``lexikonClustering.r``
+  * lib-files for ``lexikonClustering.r``: ``griesDP.r`` and ``_dispersions2.r`` (by Stephan Gries)
 
