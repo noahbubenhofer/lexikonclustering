@@ -1,9 +1,10 @@
 # lexikonclustering
 clustering of frequency distributions over time
 
-http://www.bubenhofer.com/sprechtakel/wp-content/uploads/2013/01/Abb14.LexikonCluster-42-60.png
+![Example](http://www.bubenhofer.com/sprechtakel/wp-content/uploads/2013/01/Abb14.LexikonCluster-42-60.png)
 
-http://www.bubenhofer.com/sprechtakel/wp-content/uploads/2013/01/Abb13.Wordcloud-42-60.png
+
+![Example](http://www.bubenhofer.com/sprechtakel/wp-content/uploads/2013/01/Abb13.Wordcloud-42-60.png)
 
 Used in: Bubenhofer, Noah/Scharloth, Joachim (2014): "Korpuspragmatische Methoden für kulturanalytische Fragestellungen". In: Benitt, Nora et al. (Hrsg.): Kommunikation – Korpus – Kultur. Ansätze und Konzepte einer kulturwissenschaftlichen Linguistik. Giessen Contributions to the Study of Culture, Trier: Wvt Wissenschaftlicher Verlag. S. 47-66.
 
